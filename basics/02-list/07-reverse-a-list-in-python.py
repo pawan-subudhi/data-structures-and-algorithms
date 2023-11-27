@@ -1,9 +1,6 @@
 """
     Problem Statement:
         1. Reverse the input list passed
-
-    Hint:
-        1.
 """
 # code below
 

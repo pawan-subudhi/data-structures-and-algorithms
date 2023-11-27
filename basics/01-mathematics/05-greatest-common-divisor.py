@@ -3,9 +3,6 @@
         1. Find the greatest commom divisor of 2 numbers (i.e. nothing but finding HCF)
         2. Real life problem statement can be we have a floor of 4*6 then find the max size of each tile to fill the floor i.e.GCD(4,6) = 2
 
-    Hint:
-        1.
-
     Concept:
         1. For 2 numbers the divisor can be many but we need to find the greatest / highest among them
         2. Point to be observed if among 2 numnbers 1 is able to divide the other than the GCD will be that number itself

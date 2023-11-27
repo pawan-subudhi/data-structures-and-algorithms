@@ -2,12 +2,6 @@
     Problem Statement:
         1. We are given a list and need to left rotate the list by 1 (i.e. counter clockwise)
         2. ex: l = [10, 20, 30, 40] => [20, 30, 40, 10]
-
-    Hint:
-        1.
-
-    Concept:
-        1.
 """
 # code below
 

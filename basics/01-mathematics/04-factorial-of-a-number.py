@@ -1,9 +1,6 @@
 """
     Problem Statement:
         1. Find the factorial of a number
-
-    Hint:
-        1.
 """
 # code below
 # Iterative way: Time - O(n), Space - O(1)
